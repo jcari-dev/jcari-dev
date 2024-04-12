@@ -1,4 +1,4 @@
-## Welcome to Jorge's profile! 👋
+## Welcome to my GitHub profile! 👋
 
 ## 🚀 About Me
 Hi there! I’m Jorge, a software engineer living near Boston who loves solving puzzles and finding clever solutions to tricky problems. I'm passionate about using my skills to help communities and make a real difference in the world. Whether it’s through coding up new tools or streamlining old processes, I'm all about making things better. If you're into making positive changes too, let's connect and make some waves together!
