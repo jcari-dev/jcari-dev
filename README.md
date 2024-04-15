@@ -14,7 +14,7 @@ Hi there! I’m Jorge, a software engineer living near Boston who loves solving 
 Throughout my professional journey centers on full-stack development, focusing on both front-end and back-end technologies to build comprehensive web applications. My expertise includes everything from user interface design to server-side logic and database management, ensuring seamless, end-to-end functionality.
 
 ## 📚 Current Learning
-- **Elastic Search**
+- **ElasticSearch**
 - **Docker**
 - **Rust**
 
