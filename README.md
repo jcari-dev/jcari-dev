@@ -4,7 +4,7 @@
 Hi there! I’m Jorge, a software engineer living near Boston who loves solving puzzles and finding clever solutions to tricky problems. I'm passionate about using my skills to help communities and make a real difference in the world. Whether it’s through coding up new tools or streamlining old processes, I'm all about making things better. If you're into making positive changes too, let's connect and make some waves together!
 
 ## 🛠️ Technical Stack
-- **Frontend**: React.js, Material UI, Bootstrap, Chakra UI, HTML5, CSS3
+- **Frontend**: jQUery, React.js, Material UI, Bootstrap, Chakra UI, HTML5, CSS3
 - **Backend**: Django, Node.js, Express.js
 - **Databases**: PostgreSQL, MongoDB, MySQL, Redis
 - **Tools**: Git, GitHub, Docker, Firebase
