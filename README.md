@@ -8,7 +8,7 @@ Hi there! I’m Jorge, a software engineer living near Boston who loves solving 
 - **Backend**: Django, Node.js, Express.js
 - **Databases**: PostgreSQL, MongoDB, MySQL, Redis
 - **Tools**: Git, GitHub, Docker, Firebase
-- **Languages**: Python, JavaScript, TypeScript, Go (I'm still going with Go), Rust (Soon! It's amazing, and apparently a great language for emulation too! Can't wait to dive deeper with it)
+- **Languages**: Python, JavaScript, TypeScript
 
 ## 💼 Professional Experience
 Throughout my professional journey centers on full-stack development, focusing on both front-end and back-end technologies to build comprehensive web applications. My expertise includes everything from user interface design to server-side logic and database management, ensuring seamless, end-to-end functionality.
