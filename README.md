@@ -15,7 +15,6 @@ Throughout my professional journey centers on full-stack development, focusing o
 
 ## 📚 Current Learning
 - **ElasticSearch**
-- **Docker**
 - **Rust**
 
 ## 📫 How to Reach Me
