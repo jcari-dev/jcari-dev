@@ -67,8 +67,6 @@ Software engineer in Massachusetts who loves turning messy problems into simple 
   Python package that serves detailed country profiles from a compact SQLite database.  
   Docs: https://jcari-dev.github.io/pyworldatlas-documentation/  
   PyPI: https://pypi.org/project/pyworldatlas  
-  Source: https://github.com/jcari-dev/pyworldatlas-documentation
-
 
 > Currently building: **RoleRadar**  
 > Live site: https://www.roleradar.net
