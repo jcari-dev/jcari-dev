@@ -11,7 +11,7 @@
 
 ## Hey, I’m Jorge 👋
 
-Software engineer in Massachusetts who loves turning messy problems into simple tools. I build things that save time, reduce clicks, and make teams happier. If you care about helping people and shipping useful stuff, we are on the same team.
+A software engineer in Massachusetts who loves turning messy problems into simple tools. I build things that save time, reduce clicks, and make teams happier. If you care about helping people and shipping useful stuff, we are on the same team.
 
 > Quick fun fact: yes, I still drink iced coffee in winter.
 
