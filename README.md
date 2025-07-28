@@ -55,7 +55,7 @@ Software engineer in Massachusetts who loves turning messy problems into simple 
   Source: https://github.com/jcari-dev/display-hub-e-ink-display-dashboard
 
 - **Online Chess Platform**  
-  Real time rooms, AI with Stockfish, move scoring, and clean UX.  
+  Real time rooms, AI with Stockfish, move scoring, and more.  
   Site: https://jorgeschess.app  
   Source: https://github.com/jcari-dev/chess-react
 
