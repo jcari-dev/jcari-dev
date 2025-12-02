@@ -6,7 +6,7 @@
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=jcari-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> <sub>(Since July 28th, 2025)</sub>
+<img src="https://komarev.com/ghpvc/?username=jcari-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 
 ## Hey, I’m Jorge 👋
