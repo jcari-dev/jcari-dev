@@ -45,8 +45,14 @@ A software engineer in Massachusetts who loves turning messy problems into simpl
 </p>
 
 ## Projects
-- **RoleRadar**  
-  A desktop job tracker that pulls official company APIs and keeps everything local and fast. Helps you find roles quickly without extra noise.  
+- **Code Refresh Labs**  
+  A lightweight coding practice site focused on short, confidence-building exercises. Designed for warming up, coming back after a break, or practicing without grind.  
+  Live site: https://coderefresh.dev  
+  Source: https://github.com/jcari-dev/code-refresh
+  
+- **RoleRadar** _(sunsetted)_  
+  A desktop job tracker that pulled official company APIs and kept everything local and fast. Built to reduce noise and speed up role discovery.  
+  Status: Project archived; no longer maintained  
   Live site: https://www.roleradar.net
 
 - **Display Hub (E Ink dashboard)**  
