@@ -69,7 +69,7 @@ A software engineer in Massachusetts who loves turning messy problems into simpl
   PyPI: https://pypi.org/project/pyworldatlas  
 
 > Currently building: **Code Refresh Labs**  
-> Live site: [https://www.roleradar.net](https://coderefresh.dev/)
+> Live site: [https://coderefresh.dev](https://coderefresh.dev/)
 
 ## Stats
 <div align="center">
