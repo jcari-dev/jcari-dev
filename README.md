@@ -68,8 +68,8 @@ A software engineer in Massachusetts who loves turning messy problems into simpl
   Docs: https://jcari-dev.github.io/pyworldatlas-documentation/  
   PyPI: https://pypi.org/project/pyworldatlas  
 
-> Currently building: **RoleRadar**  
-> Live site: https://www.roleradar.net
+> Currently building: **Code Refresh Labs**  
+> Live site: [https://www.roleradar.net](https://coderefresh.dev/)
 
 ## Stats
 <div align="center">
